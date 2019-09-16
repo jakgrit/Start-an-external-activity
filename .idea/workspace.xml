@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b445a810-3a52-41ca-9b42-e2daf32b091a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameOverFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/kotlin/sessions/kotlin-compiler-1885998924135800800.salive" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,28 +36,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="115" column="50" selection-start-line="115" selection-start-column="50" selection-end-line="115" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="41" column="109" selection-start-line="41" selection-start-column="109" selection-end-line="41" selection-end-column="109" />
+            <state relative-caret-position="300">
+              <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="49" />
+              <folding>
+                <element signature="e#2106#2161#1" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/navigation/navigation.xml">
-          <provider selected="true" editor-type-id="nav-designer" />
-          <provider editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -268,13 +261,6 @@
       <provider selected="true" editor-type-id="nav-designer" />
       <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="115" column="50" selection-start-line="115" selection-start-column="50" selection-end-line="115" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/TitleFragment.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -292,10 +278,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="115" column="50" selection-start-line="115" selection-start-column="50" selection-end-line="115" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigation/GameWonFragment.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="41" column="109" selection-start-line="41" selection-start-column="109" selection-end-line="41" selection-end-column="109" />
+        <state relative-caret-position="300">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="49" />
+          <folding>
+            <element signature="e#2106#2161#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
